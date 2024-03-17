@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   - [Music Survey Analysis - Data Cleaning + EDA + Analytics](https://github.com/udasii/Python/tree/main/Music_Survey_EDA)
   - [Dating App EDA](https://github.com/udasii/Python/tree/main/Dating_App_EDA)
   - [IBM Attrition Analysis - Kaggle Dataset](https://github.com/udasii/Python/tree/main/IBM_Attrition_Business_Case)
-  - [Oil & Gas Industry EDA in Business Analytics Frameword](https://github.com/udasii/Python/tree/main/Oil_and_Gas_Business_Case)
+  - [Oil & Gas Industry EDA in Business Analytics Framework](https://github.com/udasii/Python/tree/main/Oil_and_Gas_Business_Case)
   - [Retirement Calculator](https://github.com/udasii/Python/tree/main/Retirement_Calculator)
   - [FP&A Linear Programming in Python](https://github.com/udasii/Python/tree/main/Linear_Programming_Financial_Planning_in_Python)
 
@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 
 - [Resume](https://github.com/udasii/Assets/blob/main/Suraj%20Udasi_Financial%20Analyst.pdf)
 - [Google Data Analytics](https://www.credly.com/badges/d98dcf3f-d15c-408b-90dd-06aa488379ea/linked_in_profile)
+- [AWS Cloud Foundations](https://www.credly.com/badges/dda891d7-fa4d-49a3-afe7-0ada6a367bfa/linked_in_profile)
 
 <h2> 🤳 Connect with me:</h2>
 
