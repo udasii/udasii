@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   - [Portfolio Management - Capital Asset Pricing Model (CAPM)](https://github.com/udasii/Finance/tree/main/Capital_Asset_Pricing_Model)
   - [Fixed Income – Bond Pricing and Investment](https://github.com/udasii/Finance/tree/main/Bond_Pricing)
   - [FP&A – Capital Budgeting](https://github.com/udasii/Finance/tree/main/FP%26A_Capital_Budget)
-  - [Financial Management – Rent vs Buy | Retirement Planning](https://github.com/udasii/Finance/tree/main/Financial_Management)
+  - [Financial Management – Rent vs Buy & Retirement Planning](https://github.com/udasii/Finance/tree/main/Financial_Management)
   - [Portfolio Optimization using R](https://github.com/udasii/Finance/tree/main/Porfolio_Optimization_in_R)
   - [Portfolio Management using SQL](https://github.com/udasii/Finance/tree/main/Porfolio_Management_in_SQL)
   - [Building Financial Statement using Store Procedures in SQL](https://github.com/udasii/Finance/tree/main/Building_Financial_Statements_w_Stored_Procedures_in_SQL)
