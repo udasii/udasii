@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>I'm Suraj! <a href="https://github.com/udasii/Assets/blob/main/Suraj%20Udasi_Financial%20Analyst.pdf">📄</a><br/><a href="https://www.linkedin.com/in/surajudasi/">Financial Analyst (FP&A)</a>, <a href="https://github.com/udasii">Data Analyst</a></h1>
+<h1>I'm Suraj! <a href="https://github.com/udasii/Assets/blob/main/Suraj_Udasi_Resume.pdf">📄</a><br/><a href="https://www.linkedin.com/in/surajudasi/">Financial Analyst (FP&A)</a>, <a href="https://github.com/udasii">Data Analyst</a></h1>
 
 <h2>🧰 Languages and Tools</h2>
 
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 <h2>🌱 Work Experience, Certifications and Education</h2>
 
-- [Resume](https://github.com/udasii/Assets/blob/main/Suraj%20Udasi_Financial%20Analyst.pdf)
+- [Resume](https://github.com/udasii/Assets/blob/main/Suraj_Udasi_Resume.pdf)
 - [Google Data Analytics](https://www.credly.com/badges/d98dcf3f-d15c-408b-90dd-06aa488379ea/linked_in_profile)
 - [AWS Cloud Foundations](https://www.credly.com/badges/dda891d7-fa4d-49a3-afe7-0ada6a367bfa/linked_in_profile)
 
