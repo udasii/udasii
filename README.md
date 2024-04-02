@@ -30,11 +30,6 @@ Here are some ideas to get you started:
 <img align="left" alt="Datagrip" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" /><br/>
 
 
-
-
-
-
-
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Consulting</b>
