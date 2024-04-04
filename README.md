@@ -79,8 +79,8 @@ Here are some ideas to get you started:
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="Udasii | LinkedIn" width="22px" src="https://static-00.iconduck.com/assets.00/linkedin-color-icon-2048x2048-f46hbtvj.png" />][linkedin]
-[<img align="left" alt="Udasii | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Instagram_Glyph_Gradient_RGB_logo.svg/2048px-Instagram_Glyph_Gradient_RGB_logo.svg.png" />][instagram]
+[<img align="left" alt="Udasii | LinkedIn" width="25px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/linkedin-color-icon-2048x2048-f46hbtvj.png" />][linkedin]
+[<img align="left" alt="Udasii | Instagram" width="25px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Instagram_Glyph_Gradient_RGB_logo.svg/2048px-Instagram_Glyph_Gradient_RGB_logo.svg.png" />][instagram]
 
 
 [instagram]: https://www.instagram.com/udasii
