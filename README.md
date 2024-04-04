@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>I'm a </a><br/><a href="https://www.linkedin.com/in/surajudasi/">Financial Analyst (FP&A)</a> with a <a href="https://github.com/udasii">Data Analytics</a> background</h2>
+<h2>I'm a <br/><a href="https://www.linkedin.com/in/surajudasi/">Financial Analyst (FP&A)</a> with a <a href="https://github.com/udasii">Data Analytics</a> background</h2>
 
 <h2>🧰 Languages and Tools</h2>
 
